@@ -1,5 +1,5 @@
 # Selenium Script
 
-#### Web browswer automation with safaridriver
+#### Web browswer automation w/safaridriver
 
 #### 'in development'
